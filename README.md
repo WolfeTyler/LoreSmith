@@ -8,6 +8,12 @@
 
 Traditional keyword searches often fail in fast-paced sessions. LoreSmith solves this by combining **embeddings, hybrid search, reranking, and generative summarization** to provide **fast, accurate, and citation-grounded answers**.
 
+<p align="center">
+  <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/02/DD-lore-every-player-should-know-to-play.jpg?q=50&fit=crop&w=1008&h=693&dpr=1.5" 
+       width="800" 
+       alt="Dungeons & Dragons lore illustration — every player should know to play">
+</p>
+
 ---
 
 ## 🎯 Objectives
